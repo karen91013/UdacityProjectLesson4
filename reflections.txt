@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+
+  * What has been easy?
+
+  * What has been difficult?
+
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+---
+
+Your response goes here!
+
+ 	I've learned more of the tree structure of elements and have developed a better understanding about how to code on my own without help. In the past, I've taken courses on beginner HTML + CSS but never quite had the chance to do hands-on projects as quickly as I have during this course in the short amount of time I've spent on it.
+
+  Understanding the concepts as I've had previous training on front-end development.
+
+  Some of the instructions on quizzes have been semi-vague and have taken me a litlte bit of time to understand.
+
+  Using the resources provided by Udacity's course, such as MDN element reference has really helped me when I forget or don't know how to incorporate a certain tag/element.
